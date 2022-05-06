@@ -13,8 +13,8 @@
 #include "esp_spi_flash.h"
 #include "max30102.h"
 
-#define I2C_SDA 18
-#define I2C_SCL 19
+#define I2C_SDA 26
+#define I2C_SCL 25
 #define I2C_FRQ 100000
 #define I2C_PORT I2C_NUM_0
 
